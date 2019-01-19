@@ -6,6 +6,7 @@ A baseline installation of a Linux distribution on a virtual machine and prepare
 
 * URL of Project: [Catalog Item ](http://ec2-3-121-109-184.eu-central-1.compute.amazonaws.com/).
 * Public IP Address: 3.121.109.184
+* SSH port: 2200
 
 ## Amazon Lightsail Set Up
 1. Click get started for free
